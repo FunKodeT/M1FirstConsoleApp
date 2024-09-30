@@ -1,0 +1,15 @@
+C:\Users\coote\Documents\Coding\CourseWork\7_TESD1440_C-Sharp_Programming_I\M1\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.exe
+C:\Users\coote\Documents\Coding\CourseWork\7_TESD1440_C-Sharp_Programming_I\M1\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.deps.json
+C:\Users\coote\Documents\Coding\CourseWork\7_TESD1440_C-Sharp_Programming_I\M1\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.runtimeconfig.json
+C:\Users\coote\Documents\Coding\CourseWork\7_TESD1440_C-Sharp_Programming_I\M1\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.dll
+C:\Users\coote\Documents\Coding\CourseWork\7_TESD1440_C-Sharp_Programming_I\M1\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.pdb
+C:\Users\coote\Documents\Coding\CourseWork\7_TESD1440_C-Sharp_Programming_I\M1\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coote\Documents\Coding\CourseWork\7_TESD1440_C-Sharp_Programming_I\M1\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\coote\Documents\Coding\CourseWork\7_TESD1440_C-Sharp_Programming_I\M1\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.AssemblyInfo.cs
+C:\Users\coote\Documents\Coding\CourseWork\7_TESD1440_C-Sharp_Programming_I\M1\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\coote\Documents\Coding\CourseWork\7_TESD1440_C-Sharp_Programming_I\M1\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.sourcelink.json
+C:\Users\coote\Documents\Coding\CourseWork\7_TESD1440_C-Sharp_Programming_I\M1\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.dll
+C:\Users\coote\Documents\Coding\CourseWork\7_TESD1440_C-Sharp_Programming_I\M1\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\refint\FirstConsoleApp.dll
+C:\Users\coote\Documents\Coding\CourseWork\7_TESD1440_C-Sharp_Programming_I\M1\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.pdb
+C:\Users\coote\Documents\Coding\CourseWork\7_TESD1440_C-Sharp_Programming_I\M1\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.genruntimeconfig.cache
+C:\Users\coote\Documents\Coding\CourseWork\7_TESD1440_C-Sharp_Programming_I\M1\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\ref\FirstConsoleApp.dll
